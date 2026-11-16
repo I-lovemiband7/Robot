@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LooiBot</string>
+    <string name="wake_robot_button">Despertar Robot</string>
+    <string name="wake_robot_subtitle">Toca para activar voz, cámara y sensores</string>
+    <string name="cd_camera_tracking_toggle">Alternar seguimiento facial con cámara</string>
+    <string name="cd_voice_listen">Hablar con LooiBot</string>
+    <string name="cd_text_input">Escribir mensaje a LooiBot</string>
+    <string name="cd_sleep_robot">Poner a dormir a LooiBot</string>
+    <string name="cd_dismiss_error">Cerrar aviso</string>
+    <string name="emotion_neutral">Neutral</string>
+    <string name="emotion_happy">Feliz</string>
+    <string name="emotion_surprised">Sorprendido</string>
+    <string name="emotion_annoyed">Molesto</string>
+    <string name="emotion_sleepy">Dormido</string>
+    <string name="emotion_listening">Escuchando</string>
+    <string name="emotion_dizzy">Mareado</string>
+    <string name="status_listening">Escuchándote...</string>
+    <string name="status_thinking">Pensando...</string>
+    <string name="status_face_locked">Siguiendo rostro</string>
+    <string name="status_camera_searching">Buscando rostro...</string>
+    <string name="dialog_send_message_title">Habla con LooiBot</string>
+    <string name="dialog_send_message_hint">Escribe algo para LooiBot...</string>
+    <string name="dialog_send">Enviar</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="error_mic_permission">Necesito permiso de micrófono para escucharte.</string>
+    <string name="error_camera_permission">Necesito permiso de cámara frontal para seguir tu rostro.</string>
+    <string name="error_speech_unavailable">El reconocimiento de voz no está disponible en este dispositivo. Usa el botón de texto.</string>
+    <string name="error_speech_no_match">No alcancé a escucharte bien. ¿Me lo repites?</string>
+</resources>

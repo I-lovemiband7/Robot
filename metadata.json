@@ -1,0 +1,6 @@
+{
+  "name": "LooiBot",
+  "description": "Compañero robótico inteligente de escritorio con cara animada OLED, voz en español, sensores, CameraX y Gemini AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
